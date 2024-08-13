@@ -8,7 +8,8 @@
 - ExVul Smart Contract Audit Report for LetsPumpLaucher V2
 - ExVul Smart Contract Audit Report for PayProtocol V1                         
 - ExVul Smart Contract Audit Report for DIDO
-- ExVul Smart Contract Audit Report for Meta    
+- ExVul Smart Contract Audit Report for Meta
+- ExVul Smart Contract Audit Report for Bitlen        
 
 # Our Audit Portfolio
 https://exvul.com/code-audit/
