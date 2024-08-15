@@ -9,8 +9,8 @@
 - ExVul Smart Contract Audit Report for PayProtocol V1                         
 - ExVul Smart Contract Audit Report for DIDO
 - ExVul Smart Contract Audit Report for Meta
-- ExVul Smart Contract Audit Report for Bitlen        
-
+- ExVul Smart Contract Audit Report for Bitlen
+- ExVul Smart Contract Audit Report for red_envelope
 # Our Audit Portfolio
 https://exvul.com/code-audit/
 
