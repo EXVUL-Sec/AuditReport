@@ -12,6 +12,8 @@
 - ExVul Smart Contract Audit Report for Bitlen
 - ExVul Smart Contract Audit Report for red_envelope
 - ExVul Smart Contract Audit Report for TonArk
+- ExVul Smart Contract Audit Report for BulbaSwap deploy V3
+- ExVul Smart Contract Audit Report for BulbaSwap V2
 # Our Audit Portfolio
 https://exvul.com/code-audit/
 
