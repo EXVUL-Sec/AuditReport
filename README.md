@@ -15,6 +15,7 @@
 - ExVul Smart Contract Audit Report for BulbaSwap deploy V3
 - ExVul Smart Contract Audit Report for BulbaSwap V2
 - ExVul Smart Contract Audit Report for Soex
+- ExVul Smart Contract Audit Report for u2u
 # Our Audit Portfolio
 https://exvul.com/code-audit/
 
