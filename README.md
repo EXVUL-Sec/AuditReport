@@ -1,6 +1,8 @@
 # ExVul Audit Report Archive
 
 # Public Released AuditReport
+
+## Smart contract 
 - ExVul Smart Contract Audit Report for Async Finance
 - ExVul Smart Contract Audit Report for FILX TOKEN
 - ExVul Smart Contract Audit Report for Morph
@@ -16,7 +18,19 @@
 - ExVul Smart Contract Audit Report for BulbaSwap V2
 - ExVul Smart Contract Audit Report for Soex
 - ExVul Smart Contract Audit Report for u2u
+
+## Wallet
+
+- OKX
+  - [go-wallet-sdk](https://github.com/okx/go-wallet-sdk) report: ExVul Wallet Audit Report for OKX-go-wallet-sdk
+  - [js-wallet-sdk](https://github.com/okx/js-wallet-sdk) report: ExVul Wallet Audit Report for OKX-js-wallet-sdk
+
+- Tesa
+  - ExVul Smart Contract Audit Report for Tesa
+
+
 # Our Audit Portfolio
+
 https://exvul.com/code-audit/
 
 
