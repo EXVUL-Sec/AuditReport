@@ -33,8 +33,8 @@
   - ExVul Smart Contract Audit Report for Tesa
 
 ## [OrangeHats Program](https://x.com/Stacks/status/1798369770082881912)
-- [BSD-money](https://www.bsd.money/) report: coming soon
-- [DCAHQ](https://www.dcahq.com/) report: coming soon
+- [BSD-money](https://www.bsd.money/) : BSD Money Clarity Smart Contract Audit Report 
+- [DCAHQ](https://www.dcahq.com/) : DCA Clarity Smart Contract Audit Report (1)
 
 # Our Audit Portfolio
 
