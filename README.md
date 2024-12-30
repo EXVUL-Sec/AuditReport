@@ -34,7 +34,7 @@
 
 ## [OrangeHats Program](https://x.com/Stacks/status/1798369770082881912)
 - [BSD-money](https://www.bsd.money/) : BSD Money Clarity Smart Contract Audit Report 
-- [DCAHQ](https://www.dcahq.com/) : DCA Clarity Smart Contract Audit Report (1)
+- [DCAHQ](https://www.dcahq.com/) : DCA Clarity Smart Contract Audit Report 
 
 # Our Audit Portfolio
 
