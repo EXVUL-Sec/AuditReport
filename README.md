@@ -22,6 +22,8 @@
 
 ## Chain Audit
 - OORT(https://www.oortech.com/) Audit report
+- U2U
+- Tabi
 
 ## Wallet
 
@@ -35,6 +37,12 @@
 ## [OrangeHats Program](https://x.com/Stacks/status/1798369770082881912)
 - [BSD-money](https://www.bsd.money/) : BSD Money Clarity Smart Contract Audit Report 
 - [DCAHQ](https://www.dcahq.com/) : DCA Clarity Smart Contract Audit Report 
+
+
+
+## Bug Reports
+
+- Fuelet Wallet Cipher Replacement Attack Report
 
 # Our Audit Portfolio
 
