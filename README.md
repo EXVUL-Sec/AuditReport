@@ -3,21 +3,27 @@
 # Public Released AuditReport
 
 ## Smart contract 
-- ExVul Smart Contract Audit Report for Async Finance
-- ExVul Smart Contract Audit Report for FILX TOKEN
-- ExVul Smart Contract Audit Report for Morph
-- ExVul Smart Contract Audit Report for BitGenie -Summary
-- ExVul Smart Contract Audit Report for LetsPumpLaucher V2
-- ExVul Smart Contract Audit Report for PayProtocol V1                         
-- ExVul Smart Contract Audit Report for DIDO
-- ExVul Smart Contract Audit Report for Meta
-- ExVul Smart Contract Audit Report for Bitlen
-- ExVul Smart Contract Audit Report for red_envelope
-- ExVul Smart Contract Audit Report for TonArk
-- ExVul Smart Contract Audit Report for BulbaSwap deploy V3
-- ExVul Smart Contract Audit Report for BulbaSwap V2
-- ExVul Smart Contract Audit Report for Soex
-- ExVul Smart Contract Audit Report for u2u
+- Async Finance Audit Report 
+- Filx Token Audit Report
+- Morph L2 Smart Contract Audit Report
+- BitGenie Audit Report 
+- LetsPumpLaucher V2 Audit Report
+- PayProtocol V1 Audit Report                       
+- Dido Audit Report
+- Meta Audit Report 
+- Bitlen Audit Report
+- Bitget Red Envelope Audit Report 
+- TonArk Audit Report 
+- BulbaSwap deploy V3 Audit Report 
+- BulbaSwap V2 Audit Report
+- Soex Audit Report 
+- U2U Audit Report
+- SwanChain Market Audit Report
+- SwanChain Hub Audit Report
+- Bitget Swap OrcaV1
+- Bitget Solana Swap 
+- Bitperp Audit Report 
+- Electra Audit Report
 
 
 ## Chain Audit
