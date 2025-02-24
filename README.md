@@ -50,7 +50,7 @@
 
 ## Chain Audit
 - OORT(https://www.oortech.com/) Audit report
-- U2U 
+- U2U-Go-Helios
 - Tabi
 
 ## Wallet
