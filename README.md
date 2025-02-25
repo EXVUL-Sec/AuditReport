@@ -52,6 +52,7 @@
 - OORT(https://www.oortech.com/) Audit report
 - U2U-Go-Helios
 - Tabi
+- InitVerse
 
 ## Wallet
 
