@@ -71,12 +71,22 @@
 
 ## IOP
 
-| Project Name                                   | Rank | Report                                                       | Bugs           | Bountys |
-| ---------------------------------------------- | ---- | ------------------------------------------------------------ | -------------- | ------- |
+| Project Name                                   | Rank | Report                                                                                                 | Bugs           | Bountys |
+| ---------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------ | -------------- | ------- |
 | [Fluid Protocol](https://x.com/Fluid_Protocol) | 1th  | https://drive.google.com/file/d/1y__jRFS4qlN4QrRor3Rx0kyUqqXb-GA4/view?usp=sharing&utm_source=immunefi | 1Critical 1Low | $22,345 |
 
 
+##  BUG BOUNTY We Get  Info ( Public Release):
 
+| ID  | Project Name | Bounty | Bug Level | Type         | Bug Type  | Reference                                                                        |
+| --- | ------------ | ------ | --------- | ------------ | --------- | -------------------------------------------------------------------------------- |
+| 1   | Sei Network  | $75000 | Critical  | Cosmos Chain | DoS       | https://mp.weixin.qq.com/s/UHqkPFoEf7vbgdoBADbqRg                                |
+| 2   | Sei Network  | $75000 | Critical  | Cosmos Chain | Consensus |                                                                                  |
+| 3   | Stacks       | $23000 | Critical  | Bitcoin L2   | Consensus | https://medium.com/immunefi/stacks-dos-bugfix-review-dc0f2a75b276                |
+| 4   | Bybylon      | $10000 | High      | Bitcoin L2   | NA        |                                                                                  |
+| 5   | Aptos        | $10000 | Critical  | Move Chain   | Movevm    | https://exvul.com/analysis-of-the-first-critical-vulnerability-of-aptos-move-vm/ |
+| 6   | Sui          | $10000 | Critical  | Move Chain   | Movevm    |                                                                                  |
+|     |              |        |           |              |           |                                                                                  |
 
 
 ## Bug Reports
