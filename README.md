@@ -78,15 +78,15 @@
 
 ##  BUG BOUNTY We Get  Info ( Public Release):
 
-| ID  | Project Name | Bounty | Bug Level | Type         | Bug Type  | Reference                                                                        |
-| --- | ------------ | ------ | --------- | ------------ | --------- | -------------------------------------------------------------------------------- |
-| 1   | Sei Network  | $75000 | Critical  | Cosmos Chain | DoS       | https://mp.weixin.qq.com/s/UHqkPFoEf7vbgdoBADbqRg                                |
-| 2   | Sei Network  | $75000 | Critical  | Cosmos Chain | Consensus |                                                                                  |
-| 3   | Stacks       | $23000 | Critical  | Bitcoin L2   | Consensus | https://medium.com/immunefi/stacks-dos-bugfix-review-dc0f2a75b276                |
-| 4   | Bybylon      | $10000 | High      | Bitcoin L2   | NA        |                                                                                  |
-| 5   | Aptos        | $10000 | Critical  | Move Chain   | Movevm    | https://exvul.com/analysis-of-the-first-critical-vulnerability-of-aptos-move-vm/ |
-| 6   | Sui          | $10000 | Critical  | Move Chain   | Movevm    |                                                                                  |
-|     |              |        |           |              |           |                                                                                  |
+| ID   | Project Name | Bounty  | Bug Level | Type         | Bug Type  | Reference                                                    |
+| ---- | ------------ | ------- | --------- | ------------ | --------- | ------------------------------------------------------------ |
+| 1    | Sei Network  | $75000  | Critical  | Cosmos Chain | DoS       | https://mp.weixin.qq.com/s/UHqkPFoEf7vbgdoBADbqRg            |
+| 2    | Sei Network  | $75000  | Critical  | Cosmos Chain | Consensus |                                                              |
+| 3    | Stacks       | $230000 | Critical  | Bitcoin L2   | Consensus | https://medium.com/immunefi/stacks-dos-bugfix-review-dc0f2a75b276 |
+| 4    | Bybylon      | $10000  | High      | Bitcoin L2   | NA        |                                                              |
+| 5    | Aptos        | $10000  | Critical  | Move Chain   | Movevm    | https://exvul.com/analysis-of-the-first-critical-vulnerability-of-aptos-move-vm/ |
+| 6    | Sui          | $10000  | Critical  | Move Chain   | Movevm    |                                                              |
+|      |              |         |           |              |           |                                                              |
 
 
 ## Bug Reports
