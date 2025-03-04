@@ -29,7 +29,7 @@
 | Bitget Solana Swap V3 | Rust | 2024-11 | Solana |
 | Bitperp | Solidity | 2024-12 | Ethereum |
 | Electra | Solidity | 2025-01 | Ethereum |
-| WizzWoods|Solidity | 2025-01 | Ethereum |
+| WizzWoods|Solidity | 2025-02 | Ethereum |
 
 
 
