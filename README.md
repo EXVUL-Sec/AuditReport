@@ -17,6 +17,8 @@
 | Bitlen | Solidity | 2024-05 | Core/B2 Network |
 | Bitget Red Envelope | TON FunC | 2024-06 | TON |
 | TonArk | TON FunC | 2024-10 | TON |
+|DCAHQ|Clarity |2024-10|Stacks|
+|BSD-money|Clarity|2024-11|Stacks|
 | BulbaSwap deploy V3 | Solidity | 2024-10 | Morph |
 | BulbaSwap V2 | Solidity | 2024-10 | Morph |
 | Soex | Rust | 2024-10 | Solana |
