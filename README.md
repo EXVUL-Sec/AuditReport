@@ -29,7 +29,6 @@
 | Electra | Solidity | 2025-01 | Ethereum |
 | WizzWoods|Solidity | 2025-01 | Ethereum |
 
-The table has been updated with all available information. Languages are based on typical blockchain development standards for each platform.
 
 
 ## Chain Audit
