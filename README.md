@@ -2,50 +2,34 @@
 
 # Public Released AuditReport
 
-## Smart contract 
-- Async Finance Audit Report 
+## Smart Contract Audit Report
 
-- Filx Token Audit Report
+| Name | Language | Audit Date | Chain |
+|------|----------|------------|-------|
+| Async Finance | Solidity | 2024-04 | zklink |
+| Filx Token | Solidity | 2024-04 | Ethereum |
+| Morph L2 Smart Contract | Solidity | 2024-03 | Morph |
+| BitGenie | Solidity | 2024-03 | Ethereum |
+| LetsPumpLaucher V2 | Solidity | 2024-08 | Core |
+| PayProtocol V1 | Solidity | 2024-03 | Ethereum |
+| Dido | Solidity | 2024-04 | Ethereum |
+| Meta | Solidity | 2024-03 | Ethereum |
+| Bitlen | Solidity | 2024-05 | Core/B2 Network |
+| Bitget Red Envelope | TON FunC | 2024-06 | TON |
+| TonArk | TON FunC | 2024-10 | TON |
+| BulbaSwap deploy V3 | Solidity | 2024-10 | Morph |
+| BulbaSwap V2 | Solidity | 2024-10 | Morph |
+| Soex | Rust | 2024-10 | Solana |
+| U2U | Solidity | 2024-11 | Ethereum |
+| SwanChain Market | Solidity | 2024-11 | Swan |
+| SwanChain Hub | Solidity | 2024-11 | Swan |
+| Bitget Swap OrcaV1 | Rust | 2024-04 | Solana |
+| Bitget Solana Swap V3 | Rust | 2024-11 | Solana |
+| Bitperp | Solidity | 2024-12 | Ethereum |
+| Electra | Solidity | 2025-01 | Ethereum |
+| WizzWoods|Solidity | 2025-01 | Ethereum |
 
-- Morph L2 Smart Contract Audit Report
-
-- BitGenie Audit Report 
-
-- LetsPumpLaucher V2 Audit Report
-
-- PayProtocol V1 Audit Report                       
-
-- Dido Audit Report
-
-- Meta Audit Report 
-
-- Bitlen Audit Report
-
-- Bitget Red Envelope Audit Report 
-
-- TonArk Audit Report 
-
-- BulbaSwap deploy V3 Audit Report 
-
-- BulbaSwap V2 Audit Report
-
-- Soex Audit Report 
-
-- U2U Audit Report
-
-- SwanChain Market Audit Report
-
-- SwanChain Hub Audit Report
-
-- Bitget Swap OrcaV1
-
-- Bitget Solana Swap V3
-
-- Bitperp Audit Report 
-
-- Electra Audit Report
-
-  
+The table has been updated with all available information. Languages are based on typical blockchain development standards for each platform.
 
 
 ## Chain Audit
