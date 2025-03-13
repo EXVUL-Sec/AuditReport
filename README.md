@@ -30,6 +30,7 @@
 | Bitperp | Solidity | 2024-12 | Ethereum |
 | Electra | Solidity | 2025-01 | Ethereum |
 | WizzWoods|Solidity | 2025-02 | Ethereum |
+| Stargate|Rust | 2025-03 | Solana |
 
 
 
