@@ -31,6 +31,15 @@
 | Electra | Solidity | 2025-01 | Ethereum |
 | WizzWoods|Solidity | 2025-02 | Ethereum |
 | Stargate|Rust | 2025-03 | Solana |
+| Aibox |TypeScript|2025-03| Solana |
+| Fortuna | Rust | 2025-03 | Solana |
+| Cysic |Solidity | 2025-03 | Ethereum |
+| Megaluck|Solidity | 2025-03 | Ethereum |
+| Moveflow |Solidity | 2025-03 | Ethereum |
+| Flex Swap| Move|2025-04 | Movement |
+| Gmeme| Move|2025-04 | Movement |
+
+
 
 
 
@@ -48,7 +57,9 @@
 
 - Tesa
   - ExVul Smart Contract Audit Report for Tesa
-
+## Penetration Testing
+- AiBox 2025-03
+ 
 ## [OrangeHats Program](https://x.com/Stacks/status/1798369770082881912)
 - [BSD-money](https://www.bsd.money/) : BSD Money Clarity Smart Contract Audit Report 
 - [DCAHQ](https://www.dcahq.com/) : DCA Clarity Smart Contract Audit Report 
