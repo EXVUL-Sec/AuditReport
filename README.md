@@ -38,6 +38,8 @@
 | Moveflow |Solidity | 2025-03 | Ethereum |
 | Flex Swap| Move|2025-04 | Movement |
 | Gmeme| Move|2025-04 | Movement |
+| Hyperion | Move |2025-04 | Aptos |
+| Bitget 7702 | Solidity |2025-04 | Ethereal |
 
 
 
@@ -59,7 +61,8 @@
   - ExVul Smart Contract Audit Report for Tesa
 ## Penetration Testing
 - AiBox 2025-03
- 
+- Infini 2025-04
+
 ## [OrangeHats Program](https://x.com/Stacks/status/1798369770082881912)
 - [BSD-money](https://www.bsd.money/) : BSD Money Clarity Smart Contract Audit Report 
 - [DCAHQ](https://www.dcahq.com/) : DCA Clarity Smart Contract Audit Report 
