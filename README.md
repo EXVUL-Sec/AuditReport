@@ -27,7 +27,7 @@
 | SwanChain Hub | Solidity | 2024-11 | Swan |
 | Bitget Swap OrcaV1 | Rust | 2024-04 | Solana |
 | Bitget Solana Swap V3 | Rust | 2024-11 | Solana |
-| Bitperp | Solidity | 2024-12 | Ethereum |
+| Artura | Solidity | 2024-12 | Ethereum |
 | Electra | Solidity | 2025-01 | Ethereum |
 | WizzWoods|Solidity | 2025-02 | Ethereum |
 | Stargate|Rust | 2025-03 | Solana |
