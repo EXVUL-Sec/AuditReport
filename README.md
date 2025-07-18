@@ -41,8 +41,9 @@
 | Hyperion | Move |2025-04 | Aptos |
 | Bitget 7702 | Solidity |2025-04 | Ethereum |
 | TokimonsterAI | Move |2025-05 | Aptos |
-
-
+| Ora | Solidity |2025-06 | Sei |
+| ZkWasm |Solidity |2025-06 | Ethereum |
+| Mango| Move |2025-07 | Aptos,Sui, Solana, Ethereum |
 
 
 
@@ -63,6 +64,7 @@
 ## Penetration Testing
 - AiBox 2025-03
 - Infini 2025-04
+- Cobo 2025-06
 
 ## [OrangeHats Program](https://x.com/Stacks/status/1798369770082881912)
 - [BSD-money](https://www.bsd.money/) : BSD Money Clarity Smart Contract Audit Report 
@@ -72,9 +74,11 @@
 
 ## IOP
 
-| Project Name                                   | Rank | Report                                                                                                 | Bugs           | Bountys |
-| ---------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------ | -------------- | ------- |
-| [Fluid Protocol](https://x.com/Fluid_Protocol) | 1th  | https://drive.google.com/file/d/1y__jRFS4qlN4QrRor3Rx0kyUqqXb-GA4/view?usp=sharing&utm_source=immunefi | 1Critical 1Low | $22,345 |
+| Project Name                                                 | Rank | Report                                                       | Bugs                       | Bountys |
+| ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | -------------------------- | ------- |
+| [Fluid Protocol](https://x.com/Fluid_Protocol)               | 1th  | https://drive.google.com/file/d/1y__jRFS4qlN4QrRor3Rx0kyUqqXb-GA4/view?usp=sharing&utm_source=immunefi | 1Critical 1Low             | $22,345 |
+| [Paradex](https://immunefi.com/audit-competition/iop-paradex/information/?utm_source=explore_results) | 2th  | https://drive.google.com/file/d/1iizXoQeXiOiqUW25lt0v?utm_source=immunefi** | 1 Critical 8 Insights      | $8,421  |
+| [Tsi](https://immunefi.com/audit-competition/iop-term-structure/leaderboard/#top) | 2th  | https://drive.google.com/file/d/1W6OZ7DwDlMiG7oIcc4Pyt2T1jV2KK9qm/view?usp=sharing&utm_source=immunefi | 2 Critical 1 high 2 Medium | $1,911  |
 
 
 ##  BUG BOUNTY We Get  Info ( Public Release):
